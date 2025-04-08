@@ -1,6 +1,9 @@
 # Assignment #5
 *Katarzyna Kuhny, 08.04.2025*
 
+## Table of contents
+- [Why is GitHub important?](#Why is GitHub important?)
+
 ## Why is GitHub important?
 + Version control
   + Tracking changes in code
