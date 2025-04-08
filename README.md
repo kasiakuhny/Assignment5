@@ -9,6 +9,7 @@
   - [Staging&commiting changes](#Staging&commiting-changes)
   - [Syncing with a remote repository](#Syncing-with-a-remote-repository)
   - [Branching](#Branching)
+- [Useful resources](#Useful-resources)
 
 ## Why is GitHub important?
 + Version control
@@ -70,4 +71,7 @@
 : *merch a branch into a current one, git log --merge in case of conflict*
 
 
-**Useful resources: [Material from classes](https://github.com/ylla-lab/BT4BR_2025/blob/master/Exercises_Session_4/README.md) and [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) :)
+## Useful resources: 
++ [Material from classes](https://github.com/ylla-lab/BT4BR_2025/blob/master/Exercises_Session_4/README.md)
++ [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) 
+:)
