@@ -15,3 +15,6 @@
   + Work is safe in case of local machine failure
 
 ## Most useful commands
+'''git clone <url>'''
+*use to clone a GitHub repository to a local machine*
+
